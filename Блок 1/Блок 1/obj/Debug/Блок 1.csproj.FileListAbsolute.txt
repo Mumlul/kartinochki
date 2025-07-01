@@ -1,0 +1,10 @@
+C:\Users\ПК\Desktop\Экзамен\Блок 1\Блок 1\bin\Debug\Блок 1.exe.config
+C:\Users\ПК\Desktop\Экзамен\Блок 1\Блок 1\bin\Debug\Блок 1.exe
+C:\Users\ПК\Desktop\Экзамен\Блок 1\Блок 1\bin\Debug\Блок 1.pdb
+C:\Users\ПК\Desktop\Экзамен\Блок 1\Блок 1\obj\Debug\Блок 1.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\Экзамен\Блок 1\Блок 1\obj\Debug\Блок 1.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Экзамен\Блок 1\Блок 1\obj\Debug\Блок 1.exe
+C:\Users\ПК\Desktop\Экзамен\Блок 1\Блок 1\obj\Debug\Блок 1.pdb
+C:\Users\ПК\Desktop\Экзамен\Блок 1\Блок 1\bin\Debug\ClassLibrary1.dll
+C:\Users\ПК\Desktop\Экзамен\Блок 1\Блок 1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ПК\Desktop\Экзамен\Блок 1\Блок 1\obj\Debug\Блок 1.csproj.Up2Date
